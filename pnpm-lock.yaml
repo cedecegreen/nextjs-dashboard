@@ -1058,7 +1058,7 @@ packages:
     peerDependencies:
       browserslist: '>= 4.21.0'
 
-  use-debounce@10.0.4:
+  use-debounce@10.1.0:
     resolution: {integrity: sha512-lu87Za35V3n/MyMoEpD5zJv0k7hCn0p+V/fK2kWD+3k2u3kOCwO593UArbczg1fhfs2rqPEnHpULJ3KmGdDzvg==}
     engines: {node: '>= 16.0.0'}
     peerDependencies:
